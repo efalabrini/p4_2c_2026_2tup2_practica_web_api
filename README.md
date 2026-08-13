@@ -1,8 +1,8 @@
 Deben crear una carpeta por alumno.
 
-Ejemplo: ####_emiliano_falabrini
+Ejemplo: 12345_emiliano_falabrini
 
-#### debe ser el número de legajo.
+12345 debe ser el número de legajo.
 
 Dentro de la carpeta, crear un proyecto por ejercicio, con la siguiente estructura de carpeta.
 
