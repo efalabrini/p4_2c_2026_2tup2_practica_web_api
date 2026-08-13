@@ -1,0 +1,6 @@
+@ej4_HostAddress = http://localhost:5240
+
+GET {{ej4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
