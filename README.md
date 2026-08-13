@@ -7,12 +7,12 @@ Ejemplo: 12345_emiliano_falabrini
 12345 debe ser el número de legajo.
 
 Dentro de la carpeta, crear un proyecto por ejercicio, con la siguiente estructura de carpeta.
-´´´´
+´´´
 ej1
 ej2
 ...
 ejn
-´´´´
+´´´
 
 Para crear un proyecto con nombre ej1
 ´´´´
